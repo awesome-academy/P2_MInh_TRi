@@ -1,0 +1,12 @@
+//Base
+@import "./base/variables";
+@import "./base/global";
+@import "./base/mixins";
+@import "./base/placeholders";
+
+//Layouts
+@import "./layouts/footer";
+@import "./layouts/header";
+
+//Pages
+@import "./pages/_home.scss";
