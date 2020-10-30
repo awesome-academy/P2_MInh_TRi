@@ -1,0 +1,32 @@
+{
+     "topbar": {
+          "opendoor": "Open door: 8:00 A.M - 22:00 P.M"
+     },
+     "navbar": {
+          "showtimes": "Show Time",
+          "movies": "movies",
+          "thecinema": "The Cinema",
+          "sale": "Sale",
+          "member": "Member",
+          "login": "Login",
+          "registration": "Register"
+     },
+     "sale": {
+          "promotion": "Promotion & sale",
+          "info": "Discover hundreds of benefits for you right away in Metiz Cinema's Hot Deals & Offers.",
+          "promotion-atr": "Attractive promotion",
+          "see": "See more...",
+          "detail": "Watch movie metiz procession of beautiful",
+          "btn": "Details"
+     },
+     "footer": {
+          "title": "General Info",
+          "introduce": "Introduce",
+          "recruit": "Recuitment",
+          "contact": "Contact",
+          "rules": "rules",
+          "question": "Frequently asked questions",
+          "transac-terms": "Transaction terms",
+          "address": "Floors 1 Helio Center, Road 2/9, Hai Chau, Da Nang"
+     }
+}
